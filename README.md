@@ -1,5 +1,5 @@
 # Loading Animation
-This is simple Loading Animation.<br/>
+This is simple Gradiant Loading Animation.<br/>
 Watch it [Live](https://mohammadkiaei.github.io/Loading-animation/).
 <br/>
 <br/>

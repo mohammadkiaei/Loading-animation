@@ -3,6 +3,8 @@
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
+	justify-content: center;
+	text-align: center;
 }
 
 .spinner::before,
@@ -33,3 +35,5 @@
 		transform: rotate(360deg);
 	}
 }
+
+/* Developed By Mohammad Kiaei */
